@@ -4,6 +4,9 @@ A personal project based on my friends in real life and inspired by MBTI, Innate
 Made with Kleki and VS Code!
 
 
+Link: x
+
+
 # Progress
 ~ Started March 17 2025
 
