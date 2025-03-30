@@ -9,8 +9,8 @@ Link: x
 
 # Progress
 ~ Started March 17, 2025
-
-~ In Progress
+ 
+~ In Progress with index.html file
 
 
 Follow me @bellyoyon on instagram for updates!
