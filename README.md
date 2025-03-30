@@ -8,7 +8,7 @@ Link: x
 
 
 # Progress
-~ Started March 17 2025
+~ Started March 17, 2025
 
 ~ In Progress
 
